@@ -13,7 +13,7 @@
 
 [<img align="left" alt="tologonovBektur | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
  [<img align="left" alt="tologonovBektur | Instagram" width="22px" src="https://github.com/github/explore/blob/main/topics/telegram/telegram.png" />][telegram]
- [<img align="left" alt="tologonovBektur | Instagram" width="22px" src="https://github.com/github/explore/blob/main/topics/whatsapp/whatsapp.png" />][whatsapp]
+ [<img align="left" alt="tologonovBektur | Instagram" width="24px" src="https://github.com/github/explore/blob/main/topics/whatsapp/whatsapp.png" />][whatsapp]
 
 <br />
 
@@ -41,3 +41,4 @@
 
 [linkedin]: https://www.linkedin.com/in/bektur-tologonov-625ab6242/
 [telegram]: https://t.me/Bektur_tk8
+[whatsapp]: https://wa.me/996552728260
