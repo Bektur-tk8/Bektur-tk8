@@ -11,8 +11,9 @@
 ### Connect with me:
 
 
-[<img align="left" alt="VladKalachev | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
- [<img align="left" alt="abdurazzak1200 | Instagram" width="22px" src="https://github.com/github/explore/blob/main/topics/telegram/telegram.png" />][telegram]
+[<img align="left" alt="tologonovBektur | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+ [<img align="left" alt="tologonovBektur | Instagram" width="22px" src="https://github.com/github/explore/blob/main/topics/telegram/telegram.png" />][telegram]
+ [<img align="left" alt="tologonovBektur | Instagram" width="22px" src="https://github.com/github/explore/blob/main/topics/whatsapp/whatsapp.png" />][whatsapp]
 
 <br />
 
