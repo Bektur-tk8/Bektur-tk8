@@ -13,7 +13,7 @@
 
 [<img align="left" alt="tologonovBektur | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
  [<img align="left" alt="tologonovBektur | Telegram" width="22px" src="https://github.com/github/explore/blob/main/topics/telegram/telegram.png" />][telegram]
- [<img align="left" alt="tologonovBektur | WhatsApp" width="30px" src="https://github.com/github/explore/blob/main/topics/whatsapp/whatsapp.png" />][whatsapp]
+ [<img align="left" alt="tologonovBektur | WhatsApp" width="26px" src="https://github.com/github/explore/blob/main/topics/whatsapp/whatsapp.png" />][whatsapp]
 
 <br />
 
