@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Bektur
 
 
-## I'm a Backend Python Developer
+## I'm a Frontend JavaScript Developer
 - 💪 I like to write code
 - 🎉 I like reading books about it, programming
 - 🥅 I am constantly learning new things
